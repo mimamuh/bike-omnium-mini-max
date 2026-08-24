@@ -10,115 +10,27 @@ Grund:
 - Verwendete Kassette: Shimano XT CS-M8200, 10–51 Zähne
 - Erforderlicher Freilaufstandard der Kassette: Shimano Micro Spline
 
-Dieses Dokument trennt:
+---
 
-- **A.** was für den Tausch benötigt wird
-- **B.** was zur Identifikation bereits ermittelt beziehungsweise eingeholt wurde
+## Kurzantwort
+
+- Nabe: DT Swiss 350 OEM, `350 142/12 IS ASL R32 BM OEM W`
+- Ratchet: klassisches DT Swiss Ratchet System, nicht Ratchet DEG; Stückliste nennt `STAR RATCHET SL 36 TEETH`, Menge 2
+- Verbaut: Freilaufkörper `HWRABL00S1239S` (`FB W MTB SHI RAT AL LI SL B`)
+- Bestellen: Umrüstkit `HWYABL00S2562S` (`FB K MTB SHI MS RAT 12/142/48 AL LI SL B`)
+- Zusatzteile: keine, laut DT Swiss ausschließlich dieses Kit
 
 ---
 
-## A. Für den Tausch benötigt
+## Ist-Zustand
 
-### Umrüstkit
+### Nabe
 
-Für die identifizierte Nabe wird laut DT Swiss ausschließlich dieses Kit benötigt.
-
-Produktbezeichnung:
-
-```text
-FB K MTB SHI MS RAT 12/142/48 AL LI SL B
-```
-
-DT-Swiss-Artikelnummer:
-
-```text
-HWYABL00S2562S
-```
-
-Laut Produktfoto zum Kit sind zwei Teile abgebildet:
-
-- ein Freilaufkörper mit Shimano-Micro-Spline-Verzahnung
-- eine Endkappe mit der Aufschrift `MICRO SPLINE Compatible`
-
-Im Freilaufkörper ist auf dem Produktfoto ein Lager mit roter Dichtung sichtbar.
-
-### Bedeutung der erkennbaren Produktkürzel
-
-- `FB`: Freehub Body / Freilaufkörper
-- `K MTB`: MTB-Ausführung laut Produktcode
-- `SHI MS`: Shimano Micro Spline
-- `RAT`: klassisches DT Swiss Ratchet System
-- `12/142/48`: Ausführung laut DT-Swiss-Produktbezeichnung
-- `AL`: Aluminium
-- `LI SL B`: Variantenkennzeichnung laut Produktcode
-
-Die vollständige technische Bedeutung aller Kürzel wurde in der DT-Swiss-E-Mail nicht erläutert und wird daher nicht weiter interpretiert.
-
-### Keine zusätzlichen Teile laut Hersteller
-
-Laut DT Swiss wird für die Umrüstung ausschließlich das oben genannte Umrüstkit benötigt.
-
-Nicht separat erforderlich laut Hersteller:
-
-- zusätzliche Endkappen
-- zusätzliche Distanzringe
-- zusätzliche Dichtungen
-- sonstige separate Umrüstungskomponenten
-
-Diese Aussage gilt für die identifizierte Nabe:
+DT Swiss hat die verbaute OEM-Nabe anhand der übermittelten Informationen bzw. Fotos identifiziert:
 
 ```text
 350 142/12 IS ASL R32 BM OEM W
 ```
-
-mit:
-
-```text
-klassischem DT Swiss Ratchet System
-```
-
-### Technische Kompatibilitätsanforderungen
-
-Das Kit muss zu allen folgenden Merkmalen passen:
-
-```text
-Nabe: DT Swiss 350 OEM
-Nabenbezeichnung: 350 142/12 IS ASL R32 BM OEM W
-Ratchet-System: klassisches Ratchet System
-Ratchet DEG: nein
-Hinterradstandard: 12 × 142 mm
-Zielstandard: Shimano Micro Spline
-Kassette: Shimano XT CS-M8200, 10–51 Zähne
-```
-
-### Bestelltext
-
-```text
-Ich benötige für eine DT Swiss 350 OEM-Hinterradnabe
-mit der Bezeichnung 350 142/12 IS ASL R32 BM OEM W
-und klassischem DT Swiss Ratchet System, nicht Ratchet DEG,
-ein Shimano-Micro-Spline-Umrüstkit.
-
-Produktbezeichnung:
-FB K MTB SHI MS RAT 12/142/48 AL LI SL B
-
-DT-Swiss-Artikelnummer:
-HWYABL00S2562S
-```
-
----
-
-## B. Bereits ermittelt beziehungsweise durchgeführt
-
-### Identifizierte Hinterradnabe
-
-DT Swiss hat die verbaute OEM-Nabe anhand der übermittelten Informationen bzw. Fotos wie folgt identifiziert:
-
-```text
-350 142/12 IS ASL R32 BM OEM W
-```
-
-Bekannte Nabenmerkmale:
 
 - Hersteller: DT Swiss
 - Nabenmodell: DT Swiss 350 OEM
@@ -135,76 +47,36 @@ HWH07732S0001S
 RW HUBSHELL 350 IS R32 BM WS
 ```
 
-### Verbauter Freilaufkörper vor dem Tausch
+### Verbauter Freilaufkörper
 
-Laut DT-Swiss-Stückliste zur identifizierten Nabe ist aktuell verbaut:
-
-Artikelnummer:
+Laut DT-Swiss-Stückliste:
 
 ```text
 HWRABL00S1239S
-```
-
-Bezeichnung:
-
-```text
 FB W MTB SHI RAT AL LI SL B
 ```
 
 Menge: 1
 
-Gegenüberstellung zum benötigten Umrüstkit:
-
-| | Verbaut laut Stückliste | Benötigtes Umrüstkit |
-| --- | --- | --- |
-| Artikelnummer | `HWRABL00S1239S` | `HWYABL00S2562S` |
-| Bezeichnung | `FB W MTB SHI RAT AL LI SL B` | `FB K MTB SHI MS RAT 12/142/48 AL LI SL B` |
-
-In der Stücklistenbezeichnung des verbauten Körpers steht `SHI`, nicht `SHI MS`.
-
-In der Stücklistenbezeichnung steht `FB W`, in der Kit-Bezeichnung `FB K`.
-
-Die Kürzel `AL LI SL B` kommen in beiden Bezeichnungen vor.
-
-DT Swiss hat die vollständige Bedeutung dieser Unterschiede nicht erläutert.
+In der Stücklistenbezeichnung steht `SHI`, nicht `SHI MS`. Es steht `FB W`, nicht `FB K`.
 
 ### Ratchet-System
 
-Laut DT Swiss Service ist in dieser Nabe verbaut:
-
-```text
-Klassisches DT Swiss Ratchet System
-```
-
-Nicht verbaut:
-
-```text
-Ratchet DEG
-```
-
-Laut DT-Swiss-Stückliste zur selben Nabe:
-
-| Komponente | Komponentenbezeichnung | Menge |
-| --- | --- | --- |
-| `HCDXXX00N2884S` | `STAR RATCHET SL 36 TEETH` | 2 |
-| `HXDXXX00N1087S` | `SPRING HÜGI 240/FR/240S/440` | 2 |
-
-Abweichende Angaben vor der Stückliste:
-
 | Quelle | Angabe |
 | --- | --- |
+| DT Swiss Service | Klassisches Ratchet System, kein Ratchet DEG |
+| DT-Swiss-Stückliste | `HCDXXX00N2884S` `STAR RATCHET SL 36 TEETH`, Menge 2 |
+| DT-Swiss-Stückliste | `HXDXXX00N1087S` `SPRING HÜGI 240/FR/240S/440`, Menge 2 |
 | Omnium-Laufradspezifikation | 36SL-Ratchet-System |
 | Frühere Omnium-Support-Aussage | Möglicherweise DT Swiss 350 DEG |
-| DT Swiss Service | Klassisches Ratchet System, kein Ratchet DEG |
-| DT-Swiss-Stückliste | `STAR RATCHET SL 36 TEETH`, Menge 2 |
 
 Für die Auswahl des Umrüstkits ist die Identifikation durch DT Swiss maßgeblich.
 
-Die Stückliste listet die Star-Ratchet- und Feder-Positionen getrennt vom Freilaufkörper. DT Swiss hat nicht ausdrücklich mitgeteilt, ob diese Teile beim Freilaufkörper-Tausch weiterverwendet werden. DT Swiss hat mitgeteilt, dass für die Umrüstung ausschließlich das Umrüstkit benötigt wird.
+Die Stückliste listet die Star-Ratchet- und Feder-Positionen getrennt vom Freilaufkörper. DT Swiss hat nicht ausdrücklich mitgeteilt, ob diese Teile beim Freilaufkörper-Tausch weiterverwendet werden.
 
-### DT-Swiss-Stückliste zur identifizierten Nabe
+### Stückliste der identifizierten Nabe
 
-DT Swiss hat zur identifizierten Nabe die folgende Stückliste übermittelt. Sie dokumentiert den Ist-Zustand der Nabe. Sie ist keine Bestellliste für den Tausch.
+Von DT Swiss übermittelt. Dokumentiert den Ist-Zustand. Keine Bestellliste für den Tausch.
 
 | Komponente | Komponentenbezeichnung | Menge | ME |
 | --- | --- | --- | --- |
@@ -223,7 +95,63 @@ DT Swiss hat zur identifizierten Nabe die folgende Stückliste übermittelt. Sie
 
 ---
 
-## Quelle
+## Soll-Zustand / Bestellung
+
+Laut DT Swiss wird für die Umrüstung ausschließlich dieses Kit benötigt.
+
+| | Verbaut | Bestellen |
+| --- | --- | --- |
+| Artikelnummer | `HWRABL00S1239S` | `HWYABL00S2562S` |
+| Bezeichnung | `FB W MTB SHI RAT AL LI SL B` | `FB K MTB SHI MS RAT 12/142/48 AL LI SL B` |
+
+Die Kürzel `AL LI SL B` kommen in beiden Bezeichnungen vor. DT Swiss hat die vollständige Bedeutung der Unterschiede `SHI` / `SHI MS` und `FB W` / `FB K` nicht erläutert.
+
+Nicht separat erforderlich laut Hersteller:
+
+- zusätzliche Endkappen
+- zusätzliche Distanzringe
+- zusätzliche Dichtungen
+- sonstige separate Umrüstungskomponenten
+
+### Produktfoto des Kits
+
+Laut Produktfoto sind zwei Teile abgebildet:
+
+- ein Freilaufkörper mit Shimano-Micro-Spline-Verzahnung
+- eine Endkappe mit der Aufschrift `MICRO SPLINE Compatible`
+
+Im Freilaufkörper ist auf dem Produktfoto ein Lager mit roter Dichtung sichtbar.
+
+### Bedeutung der erkennbaren Produktkürzel
+
+- `FB`: Freehub Body / Freilaufkörper
+- `K MTB`: MTB-Ausführung laut Produktcode
+- `SHI MS`: Shimano Micro Spline
+- `RAT`: klassisches DT Swiss Ratchet System
+- `12/142/48`: Ausführung laut DT-Swiss-Produktbezeichnung
+- `AL`: Aluminium
+- `LI SL B`: Variantenkennzeichnung laut Produktcode
+
+Die vollständige technische Bedeutung aller Kürzel wurde in der DT-Swiss-E-Mail nicht erläutert und wird daher nicht weiter interpretiert.
+
+### Bestelltext
+
+```text
+Ich benötige für eine DT Swiss 350 OEM-Hinterradnabe
+mit der Bezeichnung 350 142/12 IS ASL R32 BM OEM W
+und klassischem DT Swiss Ratchet System, nicht Ratchet DEG,
+ein Shimano-Micro-Spline-Umrüstkit.
+
+Produktbezeichnung:
+FB K MTB SHI MS RAT 12/142/48 AL LI SL B
+
+DT-Swiss-Artikelnummer:
+HWYABL00S2562S
+```
+
+---
+
+## Quellen
 
 ### DT Swiss Deutschland GmbH
 
@@ -256,7 +184,7 @@ DT Swiss bestätigt:
 
 ---
 
-## Offene beziehungsweise nicht dokumentierte Informationen
+## Offen
 
 Nicht aus der vorliegenden E-Mail, der Stückliste oder dem Produktbild ersichtlich:
 
