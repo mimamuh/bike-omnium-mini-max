@@ -8,7 +8,7 @@ Quellen:
 
 - Kettenblatt: https://www.bike-discount.de/de/shimano-xt-sm-crm85-12-fach-kettenblatt-fuer-fc-m8100-1/8120-1/8130-1
 - Kurbel: https://www.bike-discount.de/de/shimano-xt-fc-m8100-1-12-fach-kurbel-ohne-kettenblatt
-- Rest der Schaltgruppe (Upgrade-Kit): https://www.bike-discount.de/de/shimano-xt-m8200-1x12-fach-upgrade-kit-10-51-schelle-top-deal
+- Rest der Schaltgruppe (Upgrade-Kit): https://www.bike-discount.de/de/shimano-xt-m8200-1x12-fach-upgrade-kit-i-spec-ev
 
 ---
 
@@ -18,12 +18,12 @@ Quellen:
 | --- | --- | --- | --- |
 | Kettenblatt | SM-CRM85 | XT M8100 | Einzelartikel |
 | Kurbel (ohne Kettenblatt) | FC-M8100-1 | XT M8100 | Einzelartikel |
-| Schalthebel rechts | SL-M8200-R | XT M8200 | Upgrade-Kit |
+| Schalthebel rechts | SL-M8200-IR | XT M8200 | Upgrade-Kit |
 | Schaltwerk | RD-M8200-SGS | XT M8200 | Upgrade-Kit |
 | Kassette | CS-M8200 / CS-M8200-12 | XT M8200 | Upgrade-Kit |
 | Kette | CN-M8100 | XT M8100 | Upgrade-Kit |
 
-Upgrade-Kit laut Quelle: Shimano XT M8200 1x12-fach Upgrade-Kit 10-51 Schelle. Kit ohne Originalverpackung.
+Upgrade-Kit laut Quelle: Shimano XT M8200 1x12-fach Upgrade-Kit I-Spec EV.
 
 ---
 
@@ -94,35 +94,33 @@ Upgrade-Kit laut Quelle: Shimano XT M8200 1x12-fach Upgrade-Kit 10-51 Schelle. K
 
 ---
 
-## Upgrade-Kit XT M8200 1x12-fach 10-51 Schelle
+## Upgrade-Kit XT M8200 1x12-fach I-Spec EV
 
 - Hersteller: SHIMANO INC.
-- Hersteller-Artikelnr.: M8200051RAPMK
-- Bezeichnung (Quelle): Shimano XT M8200 1x12-fach Upgrade-Kit 10-51 Schelle
+- Hersteller-Artikelnr.: M8200051IRAP
+- Bezeichnung (Quelle): Shimano XT M8200 1x12-fach Upgrade-Kit I-Spec EV
 - Antrieb: mechanisch
 - Schaltwerk-Technologie: SHIMANO SHADOW ES
+- Schalthebel-Befestigung: I-Spec EV
 - Kassette im Kit: 10-51
 
 ### Lieferumfang Kit
 
-- 1 x Shimano XT SL-M8200-R 12-fach Schalthebel Schelle rechts inkl. Innenzug
+- 1 x Shimano XT SL-M8200-IR 12-fach Schalthebel I-Spec EV rechts inkl. Innenzug + Außenhülle
 - 1 x Shimano XT RD-M8200-SGS 12-fach Schaltwerk
 - 1 x Shimano XT CS-M8200 12-fach Kassette 10-51 inkl. Sicherungsring
 - 1 x Shimano XT CN-M8100 12-fach Kette 126 Glieder inkl. Kettenschloss Quick-Link SM-CN910-12
-
-### Nicht im Lieferumfang Kit
-
-- Außenhülle SIS OT-SP41
 
 ---
 
 ## Schalthebel
 
-- Modell: SL-M8200-R
+- Modell: SL-M8200-IR
 - Gruppe: XT M8200
 - Einsatzbereich: MTB
 - Shifter-Typ: Rapidfire Plus
-- Befestigung: Schellenmontage
+- Befestigung: I-Spec EV (I-Spec EV ist nicht mit I-Spec II- und I-Spec B kompatibel!)
+- Montage laut Quelle: Befestigung des Schalthebels am Bremshebel
 - Anbau: rechts
 - Schaltstufen hinten: 12-fach
 - Antriebskompatibilität: 12-fach HYPERGLIDE+
@@ -132,9 +130,10 @@ Upgrade-Kit laut Quelle: Shimano XT M8200 1x12-fach Upgrade-Kit 10-51 Schelle. K
 - Multi Release: Ja
 - 2-Way Release: Ja
 - Schaltzugeinstellung: Ja
-- Funktionen laut Quelle: RAPIDFIRE PLUS, 2-WAY RELEASE
+- Funktionen laut Quelle: RAPIDFIRE PLUS, 2-WAY RELEASE, I-SPEC EV
 - Kompatibel mit bisherigen 12-fach Antrieben: ja (Angabe Quelle)
 - Innenzug: im Kit enthalten
+- Außenhülle: im Kit enthalten
 - Material Griff: Aluminium
 - Material Hebel: Aluminium, GFRP
 - Farbe: Series color
@@ -233,7 +232,7 @@ Zugeordnet: RD-M8200-SGS.
 
 Kassette und Kette des HYPERGLIDE+-Antriebs. Schalten in beide Richtungen.
 
-Zugeordnet: CS-M8200, CN-M8100, SL-M8200-R (12-fach HYPERGLIDE+).
+Zugeordnet: CS-M8200, CN-M8100, SL-M8200-IR (12-fach HYPERGLIDE+).
 
 ### MICRO SPLINE
 
@@ -245,13 +244,21 @@ Zugeordnet: CS-M8200.
 
 Schnelles Schalten; mit einem Schalthub um bis zu drei Gangstufen zurückschalten. RAPIDFIRE Plus Schalthebel von DEORE bis XTR sind mit 2-WAY-RELEASE ausgestattet.
 
-Zugeordnet: SL-M8200-R.
+Zugeordnet: SL-M8200-IR.
 
 ### 2-Way Release
 
 Schaltzug durch Ziehen mit dem Zeigefinger oder Drücken mit dem Daumen.
 
-Zugeordnet: SL-M8200-R.
+Zugeordnet: SL-M8200-IR.
+
+### I-SPEC EV
+
+Befestigung des Schalthebels am Bremshebel. I-SPEC EV schafft ein sauberes Cockpit-Layout. Größerer Einstellbereich der Hebelposition. I-SPEC EV-Bremsklemmen weiter nach innen verlegt; zusätzlicher Kontaktpunkt zwischen Lenker und Bremshebel. Platz zwischen Klemme und Abstützpunkt für weiteres am Lenker montiertes Zubehör.
+
+Zugeordnet: SL-M8200-IR.
+
+Quelle: I-Spec EV ist nicht mit I-Spec II- und I-Spec B kompatibel.
 
 ### Instant Release
 
@@ -264,9 +271,9 @@ Auf der Upgrade-Kit-Quellseite unter Technologien genannt.
 ## Explizit nicht enthalten / nicht spezifiziert in den Quellen
 
 - Innenlager (Lagerschalen BB-MT800 / Pressfit BB-MT800-PA laut Kurbelseite nicht im Lieferumfang)
-- Außenhülle SIS OT-SP41
 - Kettenblatt-Montagewerkzeug TL-FC41
 - Quick-Link Zange TL-CN10
 - Konkrete gewählte Kettenblattzähnezahl (nur Varianten 28/30/32/34/36 genannt)
 - Konkrete gewählte Kurbelarmlänge (nur Varianten 165/170/175/180 mm genannt)
+- Typ der Außenhülle im Kit (Quelle nennt nur „Außenhülle“, kein Modell)
 - Kompatibilität der Kurbel FC-M8100-1 zur Kassette CS-M8200 ist auf den drei Quellseiten nicht explizit als Paarung genannt; die Kurbelseite nennt CS-M8100 10-45 und 10-51. Der Schalthebel SL-M8200 ist laut Quelle kompatibel mit bisherigen 12-fach Antrieben.
