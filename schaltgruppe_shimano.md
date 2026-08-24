@@ -16,8 +16,8 @@ Quellen:
 
 | Rolle | Modell | Gruppe | Quelle |
 | --- | --- | --- | --- |
-| Kettenblatt | SM-CRM85 | XT M8100 | Einzelartikel |
-| Kurbel (ohne Kettenblatt) | FC-M8100-1 | XT M8100 | Einzelartikel |
+| Kettenblatt | SM-CRM85, 30 Zähne | XT M8100 | Einzelartikel |
+| Kurbel (ohne Kettenblatt) | FC-M8100-1, 165 mm | XT M8100 | Einzelartikel |
 | Schalthebel rechts | SL-M8200-IR | XT M8200 | Upgrade-Kit |
 | Schaltwerk | RD-M8200-SGS | XT M8200 | Upgrade-Kit |
 | Kassette | CS-M8200 / CS-M8200-12 | XT M8200 | Upgrade-Kit |
@@ -45,13 +45,9 @@ Upgrade-Kit laut Quelle: Shimano XT M8200 1x12-fach Upgrade-Kit I-Spec EV.
   - FC-M8100-1
   - FC-M8120-1
   - FC-M8130-1
-- Abstufungen (Varianten):
-  - 28 Zähne
-  - 30 Zähne
-  - 32 Zähne
-  - 34 Zähne
-  - 36 Zähne
-- Gewicht: ca. 115 g (32 Zähne)
+- Gewählte Variante: 30 Zähne
+- Weitere Abstufungen laut Quelle (nicht gewählt): 28 / 32 / 34 / 36 Zähne
+- Gewicht: ca. 115 g (32 Zähne; Quelle nennt kein Gewicht für 30 Zähne)
 - Lieferumfang: 1 x Shimano XT SM-CRM85 Kettenblatt für FC-M8100-1/8120-1/8130-1
 
 ---
@@ -77,11 +73,8 @@ Upgrade-Kit laut Quelle: Shimano XT M8200 1x12-fach Upgrade-Kit I-Spec EV.
 - Kompatible Kassetten (Quelle): CS-M8100, 10-45 und 10-51
 - Passendes Kettenblatt (Quelle): SM-CRM85, Abstufungen 28-30-32-34-36
 - Kettenblatt im Lieferumfang: nein
-- Kurbelarmlänge (Varianten):
-  - 165 mm
-  - 170 mm
-  - 175 mm
-  - 180 mm
+- Gewählte Kurbelarmlänge: 165 mm
+- Weitere Längen laut Quelle (nicht gewählt): 170 / 175 / 180 mm
 - Material Kurbelarme: Aluminium, eloxiert
 - Material Kurbelachse: Stahl, plattiert
 - Gewicht: ca. 608 g mit Kettenblatt (Herstellerangabe)
@@ -273,7 +266,7 @@ Auf der Upgrade-Kit-Quellseite unter Technologien genannt.
 - Innenlager (Lagerschalen BB-MT800 / Pressfit BB-MT800-PA laut Kurbelseite nicht im Lieferumfang)
 - Kettenblatt-Montagewerkzeug TL-FC41
 - Quick-Link Zange TL-CN10
-- Konkrete gewählte Kettenblattzähnezahl (nur Varianten 28/30/32/34/36 genannt)
-- Konkrete gewählte Kurbelarmlänge (nur Varianten 165/170/175/180 mm genannt)
+- Gewicht des 30-Zähne-Kettenblatts (Quelle nennt nur ca. 115 g für 32 Zähne)
+- Gewicht der 165-mm-Kurbel getrennt (Quelle nennt nur ca. 608 g mit Kettenblatt, ohne Längenangabe)
 - Typ der Außenhülle im Kit (Quelle nennt nur „Außenhülle“, kein Modell)
 - Kompatibilität der Kurbel FC-M8100-1 zur Kassette CS-M8200 ist auf den drei Quellseiten nicht explizit als Paarung genannt; die Kurbelseite nennt CS-M8100 10-45 und 10-51. Der Schalthebel SL-M8200 ist laut Quelle kompatibel mit bisherigen 12-fach Antrieben.
