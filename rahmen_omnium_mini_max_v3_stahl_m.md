@@ -24,6 +24,7 @@ The adjustable rocker dropouts are available as a free replacement when buying a
 - 10 x 135 QR with IS brake mount – for internal gear hubs or QR rear hubs.
 - 12 x 142 thru axle with IS brake mount – the standard choice for thru axle hubs like our Omnium Wheels. **NOTE: This is the one I bought!**
 - Please note, all forks will be 15×100 thru axle regardless of dropout choice.
+- **Brake mounts (front + rear): IS (International Standard)** — two unthreaded tabs each. Front fork confirmed by owner inspection (two unthreaded tabs); rear via dropout choice above. Post-Mount calipers need IS→Post-Mount adapters (see `bremsen_shimano.md`).
 
 ---
 
@@ -62,6 +63,8 @@ The adjustable rocker dropouts are available as a free replacement when buying a
 | Seat post clamp size                     | 34.0 mm                                                      |
 | Rear wheel                               | TA Insert: 622, 12 x 142mm spacing, disc only                |
 | Front wheel                              | 406, 15 x 100 mm spacing, disc only                          |
+| Disc brake mount front (fork)            | IS (two unthreaded tabs) — owner-confirmed                   |
+| Disc brake mount rear (dropouts)         | IS (12×142 thru axle dropouts)                               |
 | Tyre clearance, front                    | 55mm with mudguards                                          |
 | Tyre clearance, rear                     | 55mm with mudguards                                          |
 | Thru Axle Rear                           | 12×142, 172mm long, 19mm thread length, 1.75mm pitch         |
