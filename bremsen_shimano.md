@@ -17,10 +17,12 @@ Quellen:
 
 ## Stückliste
 
-| Rolle | Modell | Gruppe | Menge | Quelle |
-| --- | --- | --- | --- | --- |
-| Bremsen-Set (Hebel + Sattel + Leitungen) | BL-M8200 + BR-M8220 | XT M8200 | 1 Set (VR+HR) | Bike-Discount Set |
-| Bremsscheibe | SM-RT86, 160 mm, 6-Loch | XT | 2 | Bike-Discount Scheibe |
+| Rolle                                    | Modell                        | Gruppe   | Menge         | Quelle                                  |
+| ---------------------------------------- | ----------------------------- | -------- | ------------- | --------------------------------------- |
+| Bremsen-Set (Hebel + Sattel + Leitungen) | BL-M8200 + BR-M8220           | XT M8200 | 1 Set (VR+HR) | Bike-Discount Set                       |
+| Bremsscheibe                             | SM-RT86, 160 mm, 6-Loch       | XT       | 2             | Bike-Discount Scheibe                   |
+| Adapter vorne IS→PM                      | SM-MA-F160P/S (auch F160P/S2) | SM-MA    | 1             | Shimano (IS-Gabel → PM-Sattel, 160 mm)  |
+| Adapter hinten IS→PM                     | SM-MA-R160P/S (auch R160P/S2) | SM-MA    | 1             | Shimano (IS-Rahmen → PM-Sattel, 160 mm) |
 
 Hersteller-Artikelnr. Set (Bike-Discount): `IM82201JLFXSA100+IM82201JRRXSA170`.
 
@@ -34,6 +36,7 @@ Variante Scheibe (Bike-Discount): `160mm (SMRT86S2)`.
 - **BL-M8200:** I-SPEC EV-kompatibel (Befestigung des Schalthebels am Bremshebel); passt zum geplanten Schalthebel SL-M8200-IR (I-Spec EV).
 - **Mineralöl mit niedriger Viskosität (SM-LV-OIL):** Laut Quellen für konstanten Bremsbelagkontakt / stabile Leistungskurve über Temperaturen und Gelände.
 - **SM-RT86 160 mm 6-Loch:** ICE TECHNOLOGIES (Edelstahl/Aluminium/Edelstahl); kompatibel mit Metall- und Resin-Belägen; 6-Loch-Aufnahme; BR-M8220 laut Shimano für 160 mm Scheibengröße freigegeben. Hinterrad-Nabe im Projekt: 6-Loch (siehe `freilaufkörper_tausch.md`).
+- **Adapter SM-MA-F160P/S + SM-MA-R160P/S:** Gabel und Hinterbau sind IS (ungewindete Laschen); BR-M8220 ist Post-Mount; Scheiben 160 mm → je ein IS→PM-Adapter vorne (F) und hinten (R), nicht austauschbar.
 
 ---
 
@@ -118,23 +121,23 @@ Technologien laut Shimano-Seite: ERGO FLOW, I-SPEC EV, SERVOWAVE ACTION.
 
 ### Bremsbeläge (Shimano PDP)
 
-| Rolle | Modell | Typ |
-| --- | --- | --- |
+| Rolle      | Modell  | Typ                        |
+| ---------- | ------- | -------------------------- |
 | Standard 1 | P03A-RF | Kunstharz (mit Kühlrippen) |
-| Standard 2 | P04C-MF | Metall (mit Kühlrippen) |
-| Option 1 | D03S-RX | Kunstharz (ohne Kühlrippe) |
-| Option 2 | D02S-MX | Metall (ohne Kühlrippe) |
+| Standard 2 | P04C-MF | Metall (mit Kühlrippen)    |
+| Option 1   | D03S-RX | Kunstharz (ohne Kühlrippe) |
+| Option 2   | D02S-MX | Metall (ohne Kühlrippe)    |
 
 Ersatzteil-Bezeichnungen auf der Shimano-Seite u. a.: BP-P03A-RF, BP-P04C-MF, BP-D03S-RX, BP-D02S-MX.
 
 ### Kompatible Bremsscheibengrößen (Shimano PDP)
 
-| Größe | Kompatibel |
-| --- | --- |
-| 160 mm (S) | ✔ |
-| 180 mm (M) | ✔ |
-| 203 mm (L) | ✔ |
-| 220 mm (LL) | ✔ |
+| Größe       | Kompatibel |
+| ----------- | ---------- |
+| 160 mm (S)  | ✔          |
+| 180 mm (M)  | ✔          |
+| 203 mm (L)  | ✔          |
+| 220 mm (LL) | ✔          |
 
 Technologie-Highlight laut Shimano: ICE TECHNOLOGIES (Kühlung Scheibe/Belag).
 
@@ -173,8 +176,8 @@ Für das Bike: **2 ×** diese Variante (vorne und hinten).
 
 - Nur **SM-LV-OIL** (Mineralöl niedriger Viskosität) verwenden; Set ist damit befüllt (J-Kit).
 - **I-Spec EV** am Bremshebel: nicht mit I-Spec II / I-Spec B-Schalthebeln kombinieren.
-- **Bremsscheiben und Adapter** sind nicht im Bremsen-Set; Scheiben separat (gewählt: 2× SM-RT86 160 mm).
-- Bremssattel-Aufnahme: **Post-Mount**; Adapter müssen zum Rahmen/Gabel-Mount und zur Scheibengröße passen (nicht im Set).
+- **Bremsscheiben und Adapter** sind nicht im Bremsen-Set; Scheiben separat (gewählt: 2× SM-RT86 160 mm); Adapter separat (siehe unten).
+- Bremssattel-Aufnahme: **Post-Mount**; Rahmen/Gabel: **IS** → Adapter IS→PM nötig.
 - Leitungslängen im Set: vorne **1000 mm**, hinten **1700 mm** (kürzbar). Ob 1000 mm vorne am MiniMax V3 ausreichen, ist hier nicht belegt.
 - Leitungsanschluss: Hebel gerade, Sattel Banjo.
 - Im Set: **Resin-Beläge mit Kühlrippen**; Metallbeläge (z. B. P04C-MF) sind laut Shimano kompatibel, aber nicht im Set-Lieferumfang genannt.
@@ -182,12 +185,29 @@ Für das Bike: **2 ×** diese Variante (vorne und hinten).
 
 ---
 
+## Adapter IS → Post-Mount (160 mm)
+
+Rahmenbezug: Omnium MiniMax V3 — Gabel und Hinterbau **IS** (zwei ungewindete Laschen je Seite). Gabel-IS vom Owner bestätigt; hinten laut Dropout-Wahl 12×142 mit IS (`rahmen_omnium_mini_max_v3_stahl_m.md`).
+
+| Position | Mount Bike   | Sattel              | Scheibe | Adapter                       |
+| -------- | ------------ | ------------------- | ------- | ----------------------------- |
+| Vorne    | IS (Gabel)   | Post-Mount BR-M8220 | 160 mm  | SM-MA-F160P/S (auch F160P/S2) |
+| Hinten   | IS (Dropout) | Post-Mount BR-M8220 | 160 mm  | SM-MA-R160P/S (auch R160P/S2) |
+
+Hinweise:
+
+- **F und R nicht vertauschen** — unterschiedliche Geometrie vorne/hinten.
+- Nur **160**-Variante; 180/203-Adapter verschieben den Sattel zu weit.
+- Richtung **IS → PM** (nicht PM→PM „+20“-Adapter für größere Scheiben auf Post-Mount-Rahmen).
+- Shimano-Adapter typischerweise inkl. Befestigungsschrauben; im Bremsen-Set sind nur Sattel-Schrauben, keine Adapter.
+
+---
+
 ## Explizit nicht enthalten / nicht spezifiziert in den Quellen
 
-- Adapter (IS/Post-Mount o. ä.) für Rahmen und Gabel MiniMax V3
 - Ob die vordere 1000-mm-Leitung am MiniMax V3 lang genug ist
 - Exakte Belag-Artikelnummer im Bike-Discount-Set (nur „Resin mit Kühlrippen“; Shimano Standard 1 am Sattel: P03A-RF)
-- Bremsscheibenaufnahme der Vorderradnabe (Hinterrad: 6-Loch laut `freilaufkörper_tausch.md`)
+- Bremsscheibenaufnahme der Vorderradnabe (Hinterrad: 6-Loch laut `freilaufkörper_tausch.md`; Vorderrad laut Wheelset-Specs in `rahmen_omnium_mini_max_v3_stahl_m.md`: Disc 6 Bolt)
 - Ob Metallbeläge für den Einsatz am MiniMax V3 zusätzlich bestellt werden
 - Gewichte von Hebel/Sattel/Komplettkit (auf den vier Quellseiten nicht als Zahlen ausgewertet)
 - Drehmomente, Entlüftungsprozedur, Einpressmaße (nicht Gegenstand dieser Quellseiten-Auswertung)
@@ -196,7 +216,5 @@ Für das Bike: **2 ×** diese Variante (vorne und hinten).
 
 ## Noch nicht geklärt
 
-1. **Adapter:** welche konkreten Post-Mount-Adapter für MiniMax V3 (Rahmen/Gabel) bei 160-mm-Scheiben.
-2. **Vordere Leitungslänge:** reicht 1000 mm am MiniMax V3, oder längere Leitung nötig.
-3. **Vorderrad-Nabe:** bestätigt 6-Loch wie hinten?
-4. **Beläge:** bei Resin (Set) bleiben oder Metall (z. B. P04C-MF) nachrüsten.
+1. **Vordere Leitungslänge:** reicht 1000 mm am MiniMax V3, oder längere Leitung nötig.
+2. **Beläge:** bei Resin (Set) bleiben oder Metall (z. B. P04C-MF) nachrüsten.
