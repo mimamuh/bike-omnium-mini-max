@@ -50,6 +50,8 @@ The adjustable rocker dropouts are available as a free replacement when buying a
 | CSL – chainstay length               |      462 |
 | FL – full bike length                |   2024.5 |
 
+NOTE: Gabelschaft hat einen Überhang von leicht mehr als 96 mm für Vorbau und Spacer.
+
 ---
 
 ### Frame Specifications
