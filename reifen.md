@@ -69,7 +69,7 @@ Quellen: `rahmen_omnium_mini_max_v3_stahl_m.md`, Omnium Product Specs.
 | Schutzbleche        | Nein (Erstausstattung)                                                  |
 | Schlauch / Tubeless | **Schläuche** — kein Tubeless, kein Sealant                             |
 | Nutzung             | Meist Asphalt + Schotter; Kindtransport; Muskelkraft; siehe `fahrer.md` |
-| Priorität Optik     | Hoch (schwarz/anthrazit zu LilacHaze)                                   |
+| Priorität Optik     | Hoch (schwarz/anthrazit zu LilacHaze); Gesamtgestaltung: `design.md`    |
 
 ---
 

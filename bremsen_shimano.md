@@ -33,7 +33,7 @@ Variante Scheibe (Bike-Discount): `160mm (SMRT86S2)`.
 ## Begründung der Auswahl
 
 - **4-Kolben-Sattel BR-M8220:** Laut Shimano stärkster Bremssattel der M8200-Familie; ausgelegt auf Leistung, Konsistenz und Kontrolle.
-- **BL-M8200:** I-SPEC EV-kompatibel (Befestigung des Schalthebels am Bremshebel); passt zum geplanten Schalthebel SL-M8200-IR (I-Spec EV).
+- **BL-M8200:** I-SPEC EV-kompatibel (Befestigung des Schalthebels am Bremshebel); passt zum geplanten Schalthebel SL-M8200-IR (I-Spec EV). Schaltung/Antrieb: `antrieb.md`.
 - **Mineralöl mit niedriger Viskosität (SM-LV-OIL):** Laut Quellen für konstanten Bremsbelagkontakt / stabile Leistungskurve über Temperaturen und Gelände.
 - **SM-RT86 160 mm 6-Loch:** ICE TECHNOLOGIES (Edelstahl/Aluminium/Edelstahl); kompatibel mit Metall- und Resin-Belägen; 6-Loch-Aufnahme; BR-M8220 laut Shimano für 160 mm Scheibengröße freigegeben. Hinterrad-Nabe im Projekt: 6-Loch (siehe `freilaufkörper_tausch.md`).
 - **Adapter SM-MA-F160P/S + SM-MA-R160P/S:** Gabel und Hinterbau sind IS (ungewindete Laschen); BR-M8220 ist Post-Mount; Scheiben 160 mm → je ein IS→PM-Adapter vorne (F) und hinten (R), nicht austauschbar.

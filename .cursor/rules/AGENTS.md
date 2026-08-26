@@ -12,6 +12,8 @@ Advice me in decision about which components I need, what colors and styles woul
 
 You find the most important informations about the Omnium Mini-Max V3 Frame Kit in the `./` roots folder. The `./rahmen_omnium_mini_max_v3_stahl_m.md` has the information about the frame we are using where every other component has to work on — the information might not be complete enought to guide all decisions. In case you miss information, let me know which informations you miss to guide my decision and how you gained the informations and where.
 
+Related decision files (when relevant): `fahrer.md`, `antrieb.md` (drivetrain), `design.md` (colors/accents), `tretlager.md`, `reifen.md`, `bremsen_shimano.md`, `freilaufkörper_tausch.md`.
+
 ---
 
 ### Important:

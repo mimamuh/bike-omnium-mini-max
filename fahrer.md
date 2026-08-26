@@ -95,7 +95,7 @@ Stand: Interview 2026-08-25.
 | Lenker      | Flatbar                                                                                                                                                       |
 | Haltung     | Sportlich, aber etwas aufrechter als XC ok                                                                                                                    |
 | Sattel      | Muss für beide passen: schmal genug für ihn, breiter/komfortabler für sie (Sit Bones ~12–16 cm); kein stark hochgezogenes Heck wie beim genannten Ergon Women |
-| Optik       | Schwarz/Anthrazit kontrastreich zum LilacHaze-Rahmen; silber/blank Akzente optional (z. B. Lenker)                                                            |
+| Optik       | Schwarz/Anthrazit dominant zu LilacHaze; Silber-Akzente festgelegt — siehe `design.md` (Kurbel + Lenker silber; Vorbau/Stütze/Klemme/Blatt schwarz)          |
 | Prioritäten | Optik wichtig; Rest ausgewogen. Mittelklasse (nicht teuerste/billigste). Leichter bevorzugen, Preis vernünftig halten                                         |
 
 ---
@@ -122,7 +122,7 @@ Fokus: **Grundkomponenten, damit das Rad fährt.**
 2. **Kein E-System** planen (kein Mid-Drive/Nabenmotor-Budget, keine E-spezifischen Bremsen/Gruppen).
 3. **Cockpit**: Flatbar, sportlich; Vorbau/Lenkerhöhe so wählen, dass Front-Last (Backrest + Kind) Platz und Kontrolle erlaubt — nicht XC-flach.
 4. **Sattel**: Shared-bike-Kompromiss; Women-Ergon mit hochgezogenem Heck vermeiden wenn Primärfahrer oft fährt.
-5. **Optik**: Schwarz/Anthrazit dominant; Silber optional.
+5. **Optik**: Schwarz/Anthrazit dominant; Silber-Anker laut `design.md` (nicht frei streuen).
 6. **Zubehör später**: Schutzbleche, Licht, Klingel, Spiegel bewusst nicht im Erstaufbau.
 7. **Erfahrung**: Primärfahrer kann anspruchsvollere Komponenten handhaben; Partnerin seltener und weniger Handling-Erfahrung → Setup sollte trotzdem alltagssicher und intuitiv bleiben.
 8. Unbekannt / nicht erhoben: Schrittlänge/Innenbeinlänge, genaue Kindersitz-Variante (klassischer Omnium Backrest vs. Folding Backrest), konkrete Markenpräferenzen außer Ergon-Sattel-Referenz.

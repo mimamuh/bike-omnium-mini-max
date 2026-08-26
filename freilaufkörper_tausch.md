@@ -9,6 +9,7 @@ Grund:
 - Verwendung einer Shimano-12-fach-MTB-Kassette
 - Verwendete Kassette: Shimano XT CS-M8200, 10–51 Zähne
 - Erforderlicher Freilaufstandard der Kassette: Shimano Micro Spline
+- Gesamter Antrieb (aktuell): siehe `antrieb.md`
 
 ---
 
