@@ -113,6 +113,8 @@ Fokus: **Grundkomponenten, damit das Rad fährt.**
 | Spiegel      | Ignorieren (vorerst)                                 |
 | Kindersitz   | Omnium Backrest (gekauft)                            |
 | Laufräder    | Omnium Carbon Wheelset (gekauft; siehe Rahmen-Datei) |
+| Headset      | Mit Rahmenkit dabei, schwarz                         |
+| Steckachsen  | Mit Rahmenkit dabei (VR 15×100, HR 12×142), schwarz  |
 
 ---
 

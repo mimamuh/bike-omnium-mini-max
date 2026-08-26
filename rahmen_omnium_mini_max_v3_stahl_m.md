@@ -86,6 +86,17 @@ NOTE: Gabelschaft hat einen Überhang von leicht mehr als 96 mm für Vorbau und 
 
 ### What components are already bought/decided on
 
+#### Frame kit inclusions (Owner-confirmed)
+
+Included with the Omnium Mini-Max V3 frame kit — **not** to be ordered separately:
+
+| Component                         | Spec / note                                                                 | Color   |
+| --------------------------------- | --------------------------------------------------------------------------- | ------- |
+| Headset (fork, threaded integrated) | 1 1/8″ Threaded Integrated with locking cap                               | Black   |
+| Headset (steerer / Ahead)         | 1 1/8″ Ahead                                                                | Black   |
+| Thru axle front                   | 15×100, 125 mm long, 17 mm thread, 1.5 mm pitch                             | Black   |
+| Thru axle rear                    | 12×142, 172 mm long, 19 mm thread, 1.75 mm pitch                            | Black   |
+
 #### Wheelset
 
 I bought the Omnium Carbon Wheelset and plan to use it. The Omnium Carbon Wheelset has the following specs:

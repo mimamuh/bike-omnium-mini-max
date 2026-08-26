@@ -17,6 +17,8 @@ Nur festgehaltene Owner-Entscheidungen und beobachtete Ist-Farben. Keine erfunde
 | Rahmen Stahl           | **LilacHaze**, glossy / lilalic     | Gekauft           |
 | Front-Rack             | **LilacHaze** (farbgleich Rahmen)   | Dabei             |
 | Rack-Webbing           | **schwarz**                         | Dabei             |
+| Headset (Gabel + Ahead)| **schwarz**                         | Dabei (Rahmenkit) |
+| Steckachsen VR + HR    | **schwarz**                         | Dabei (Rahmenkit) |
 | Backrest-Sitz          | **schwarz**                         | Gekauft           |
 | Omnium Carbon Wheelset | UD **Matte Black**                  | Gekauft           |
 | Reifen (geplant)       | **schwarz**, ohne Reflektorstreifen | Siehe `reifen.md` |
@@ -58,6 +60,7 @@ Folge: viel Schwarz an Cargo-Plattform und Laufrädern; Lilac durchgängig an Ra
 | Sattelklemme           | schwarz — bei Lenker+Kurbel schon silber kein drittes Echo nötig               |
 | Griffe, Sattel, Pedale | schwarz — Kontaktpunkte, Alltag                                                |
 | Bremsen / Schalthebel  | typisch Series color / schwarz — Einheit                                       |
+| Headset, Steckachsen   | schwarz — mit Rahmenkit dabei (`rahmen_omnium_mini_max_v3_stahl_m.md`)         |
 
 ---
 
