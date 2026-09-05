@@ -8,14 +8,14 @@ Stand: 2026-08-29 · Entscheidungsgrundlage: `antrieb.md`, `tretlager.md`, `rahm
 
 ## Deine Komponenten (Kurz)
 
-| Teil | Modell |
-| --- | --- |
-| Kurbel | Hope Evo 68/73 mm, **165 mm**, silber, 30-mm-Achse |
-| Kettenblatt | Hope R22 Direct Mount **Boost**, **30 Zähne**, schwarz |
-| Innenlager | Hope Edelstahl BSA 30 mm, silber (**BBSS30S**) |
-| Werkzeug BB | Hope **HTT188** |
-| Ziel-Kettenlinie | **52 mm** (Boost-Blatt) |
-| Ziel-BB-Breite über Lager | **96,5 mm** (Hope MTB-Standard) |
+| Teil                      | Modell                                                 |
+| ------------------------- | ------------------------------------------------------ |
+| Kurbel                    | Hope Evo 68/73 mm, **165 mm**, silber, 30-mm-Achse     |
+| Kettenblatt               | Hope R22 Direct Mount **Boost**, **30 Zähne**, schwarz |
+| Innenlager                | Hope Edelstahl BSA 30 mm, silber (**BBSS30S**)         |
+| Werkzeug BB               | Hope **HTT188**                                        |
+| Ziel-Kettenlinie          | **52 mm** (Boost-Blatt)                                |
+| Ziel-BB-Breite über Lager | **96,5 mm** (Hope MTB-Standard)                        |
 
 **Herstellerdokumente:** `hersteller_dokumente/Innenlager Hope/`, `hersteller_dokumente/Kurbelsatz Hope Evo /`
 
@@ -23,7 +23,7 @@ Stand: 2026-08-29 · Entscheidungsgrundlage: `antrieb.md`, `tretlager.md`, `rahm
 
 ## Werkzeug & Verbrauch — vorab bereitlegen
 
-- [ ] Hope Innenlagerschlüssel **HTT188**
+- [x] Hope Innenlagerschlüssel **HTT188**
 - [ ] Drehmomentschlüssel (BB: **40–50 N·m**; Kettenblatt-Lockring: **50–60 N·m**; Preload-Klemm-Schraube: **0,6–0,8 N·m**)
 - [ ] **10 mm** Innensechskant (EVO-Kurbelarm)
 - [ ] **2,5 mm** Innensechskant (Preload-Klemm-Schraube)
@@ -131,24 +131,24 @@ Quelle: `Kurbelsatz Hope Evo /Hope_EVO_Crankset_EN_FR_DE.pdf` (Montage = Umkehru
 
 ## Geklärt (Owner, 2026-08-29)
 
-| # | Thema | Ergebnis |
-| --- | --- | --- |
-| 1 | Lockring-Werkzeug **HC105-26T** | **Vorhanden** |
-| 2 | Drehmoment Kurbelschraube (10 mm) | Beim Einbau in EVO-PDF nachschlagen — so geplant |
-| 3 | BB-Gewinde im Rahmen | **BSA-Gewinde vorhanden** — kein separates Facing vorgesehen |
+| #   | Thema                             | Ergebnis                                                     |
+| --- | --------------------------------- | ------------------------------------------------------------ |
+| 1   | Lockring-Werkzeug **HC105-26T**   | **Vorhanden**                                                |
+| 2   | Drehmoment Kurbelschraube (10 mm) | Beim Einbau in EVO-PDF nachschlagen — so geplant             |
+| 3   | BB-Gewinde im Rahmen              | **BSA-Gewinde vorhanden** — kein separates Facing vorgesehen |
 
 ---
 
 ## Quellenverzeichnis
 
-| Dokument | Pfad |
-| --- | --- |
-| Antrieb (Komponentenwahl) | `antrieb.md` |
-| Tretlager Kurz | `tretlager.md` |
-| Rahmen BB 68 mm | `rahmen_omnium_mini_max_v3_stahl_m.md` |
-| BB Einbau + Spacer 68 mm | `hersteller_dokumente/Innenlager Hope/30mmThreadedBB-EN_FR_DE_V2.pdf` |
-| BB Spacer-Übersicht BSA | `hersteller_dokumente/Innenlager Hope/BSA_threaded_WEB_2023.pdf` |
-| EVO + BB Kompatibilität | `hersteller_dokumente/Innenlager Hope/2019EVOCranksBBCompatibility_ISS03_11.2019.pdf` |
-| EVO Kettenlinie | `hersteller_dokumente/Kurbelsatz Hope Evo /hope_Chainline_and_Clearance_Chart_EVO.pdf` |
-| EVO Montage/Demontage | `hersteller_dokumente/Kurbelsatz Hope Evo /Hope_EVO_Crankset_EN_FR_DE.pdf` |
-| EVO Exploded View | `hersteller_dokumente/Kurbelsatz Hope Evo /EVO_exploded_studio_002.pdf` |
+| Dokument                  | Pfad                                                                                   |
+| ------------------------- | -------------------------------------------------------------------------------------- |
+| Antrieb (Komponentenwahl) | `antrieb.md`                                                                           |
+| Tretlager Kurz            | `tretlager.md`                                                                         |
+| Rahmen BB 68 mm           | `rahmen_omnium_mini_max_v3_stahl_m.md`                                                 |
+| BB Einbau + Spacer 68 mm  | `hersteller_dokumente/Innenlager Hope/30mmThreadedBB-EN_FR_DE_V2.pdf`                  |
+| BB Spacer-Übersicht BSA   | `hersteller_dokumente/Innenlager Hope/BSA_threaded_WEB_2023.pdf`                       |
+| EVO + BB Kompatibilität   | `hersteller_dokumente/Innenlager Hope/2019EVOCranksBBCompatibility_ISS03_11.2019.pdf`  |
+| EVO Kettenlinie           | `hersteller_dokumente/Kurbelsatz Hope Evo /hope_Chainline_and_Clearance_Chart_EVO.pdf` |
+| EVO Montage/Demontage     | `hersteller_dokumente/Kurbelsatz Hope Evo /Hope_EVO_Crankset_EN_FR_DE.pdf`             |
+| EVO Exploded View         | `hersteller_dokumente/Kurbelsatz Hope Evo /EVO_exploded_studio_002.pdf`                |
