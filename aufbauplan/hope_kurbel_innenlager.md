@@ -2,22 +2,24 @@
 
 Omnium Mini-Max V3 Stahl M (LilacHaze) · BSA **68 mm** · Hinterbau **12 × 142 mm**
 
-Stand: 2026-08-29 · Entscheidungsgrundlage: `antrieb.md`, `tretlager.md`, `rahmen_omnium_mini_max_v3_stahl_m.md`
+Stand: 2026-09-05 · Entscheidungsgrundlage: `antrieb.md`, `tretlager.md`, `rahmen_omnium_mini_max_v3_stahl_m.md`
 
 ---
 
 ## Deine Komponenten (Kurz)
 
-| Teil                      | Modell                                                 |
-| ------------------------- | ------------------------------------------------------ |
-| Kurbel                    | Hope Evo 68/73 mm, **165 mm**, silber, 30-mm-Achse     |
-| Kettenblatt               | Hope R22 Direct Mount **Boost**, **30 Zähne**, schwarz |
-| Innenlager                | Hope Edelstahl BSA 30 mm, silber (**BBSS30S**)         |
-| Werkzeug BB               | Hope **HTT188**                                        |
-| Ziel-Kettenlinie          | **52 mm** (Boost-Blatt)                                |
-| Ziel-BB-Breite über Lager | **96,5 mm** (Hope MTB-Standard)                        |
+| Teil                      | Modell                                                    |
+| ------------------------- | --------------------------------------------------------- |
+| Kurbel                    | Hope Evo 68/73 mm, **165 mm**, silber, 30-mm-Achse        |
+| Kettenblatt               | Hope R22 Direct Mount **Standard**, **30 Zähne**, schwarz |
+| Innenlager                | Hope Edelstahl BSA 30 mm, silber (**BBSS30S**)            |
+| Werkzeug BB               | Hope **HTT188**                                           |
+| Ziel-Kettenlinie          | **49 mm** (Standard-Blatt)                                |
+| Ziel-BB-Breite über Lager | **96,5 mm** (Hope MTB-Standard)                           |
 
 **Herstellerdokumente:** `hersteller_dokumente/Innenlager Hope/`, `hersteller_dokumente/Kurbelsatz Hope Evo /`
+
+Kurbel und Innenlager sind bereits montiert (2026-08). **Aktueller Schritt:** Boost-Blatt gegen Standard-Blatt tauschen — Lockring **50–60 N·m** (`HC105-26T`), danach Freigang zur Kettenstrebe prüfen. Kurbel muss dafür nicht vom Rahmen.
 
 ---
 
@@ -52,7 +54,7 @@ Stand: 2026-08-29 · Entscheidungsgrundlage: `antrieb.md`, `tretlager.md`, `rahm
 > Direct-Mount-Blatt sitzt am Kurbelarm, nicht am Spider. Einbau laut Hope **vor** dem Setzen der Kurbel am Rad sinnvoll.
 
 - [ ] Schnittstelle Kurbelarm ↔ Kettenblatt **sauber und trocken**
-- [ ] **Boost**-Blatt wählen/prüfen (Ziel-Kettenlinie **52 mm**; Standard-Offset wäre 49 mm)
+- [ ] **Standard**-Blatt wählen/prüfen (Ziel-Kettenlinie **49 mm**; Boost-Offset wäre 52 mm — nicht mehr gewählt)
 - [ ] Splines und Gewinde **leicht fetten**
 - [ ] Kettenblatt korrekt orientiert auf Antriebs-Spline setzen
 - [ ] Lockring-Unterlegscheibe (Shim) einlegen; Lockring **von Hand** anstarten (darf leicht laufen)
@@ -115,8 +117,8 @@ Quelle: `Kurbelsatz Hope Evo /Hope_EVO_Crankset_EN_FR_DE.pdf` (Montage = Umkehru
 
 - [ ] Kurbel **360°** mehrfach durchdrehen (leichtgängig, kein Kratzen)
 - [ ] Seitenspiel erneut prüfen (Preload ggf. minimal nachjustieren)
-- [ ] Kettenblatt-Freigang zum Rahmen / Kettenstreben prüfen (noch ohne Kette: grober Blick; final mit Kette)
-- [ ] Kettenlinie **52 mm** im Hinterkopf behalten — bei späterem Rubbing/Schräglauf siehe `antrieb.md` (Fallback: Standard-Offset-Blatt)
+- [ ] Kettenblatt-Freigang zum Rahmen / Kettenstreben prüfen (Standard sitzt **3 mm weiter innen** als das bisherige Boost-Blatt)
+- [ ] Kettenlinie **49 mm** — bei Rubbing an der Strebe oder unruhigem Lauf in 39–51 siehe `antrieb.md`
 - [ ] Pedale **noch nicht** montieren, wenn Schaltung/Kette als Nächstes folgt — sonst: Pedaldrehrichtung beachten, Unterlegscheiben nutzen, **~35 N·m**
 
 ---
@@ -136,6 +138,7 @@ Quelle: `Kurbelsatz Hope Evo /Hope_EVO_Crankset_EN_FR_DE.pdf` (Montage = Umkehru
 | 1   | Lockring-Werkzeug **HC105-26T**   | **Vorhanden**                                                |
 | 2   | Drehmoment Kurbelschraube (10 mm) | Beim Einbau in EVO-PDF nachschlagen — so geplant             |
 | 3   | BB-Gewinde im Rahmen              | **BSA-Gewinde vorhanden** — kein separates Facing vorgesehen |
+| 4   | Kettenblatt-Offset (2026-09-05)   | **Standard / 49 mm** — Boost 52 mm nicht mehr aktuell        |
 
 ---
 

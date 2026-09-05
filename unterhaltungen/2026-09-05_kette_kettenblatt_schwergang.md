@@ -31,4 +31,4 @@ Ursache ist **Kettenspannung**, nicht das Kettenblatt. RD-M8200 Shadow ES hat ke
 2. **Käfig am 51er prüfen:** muss noch einen Knick haben, nicht durchgestreckt sein. Durchgestreckt = Kette zu kurz (Mini-Max Kettenstrebe 462 mm, länger als typisches MTB).
 3. Restliches „etwas fest“ im Ständer erst auf dem Rad in einem mittleren Gang beurteilen — unter Last wird Shadow ES meist ruhiger.
 
-Kettenlinie 52 mm Boost auf 142-mm-Hinterbau bleibt ein separater Beobachtungspunkt (`antrieb.md`, A1), erklärt dieses Symptom aber nicht.
+Kettenlinie war damals 52 mm Boost auf 142-mm-Hinterbau — erklärte dieses Symptom nicht. Entscheidung danach: Wechsel auf Standard **49 mm**. Siehe `unterhaltungen/2026-09-05_kettenlinie_49mm_standard.md` und `antrieb.md`.

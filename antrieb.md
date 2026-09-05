@@ -4,7 +4,7 @@ Maschinenlesbare Entscheidungsakte für den kompletten Antrieb (Kurbel, Innenlag
 Rahmen-Kontext: `rahmen_omnium_mini_max_v3_stahl_m.md`.
 Fahrer-/Nutzungskontext: `fahrer.md`.
 Gestaltung: `design.md`.
-Stand: 2026-08-26.
+Stand: 2026-09-05.
 
 Nur Angaben aus den genannten Quellen bzw. Owner-Entscheidung. Keine erfundenen Werte.
 
@@ -18,7 +18,7 @@ System: **1x12-fach**, mechanisch, MTB. Schaltung: Shimano XT. Kurbel/Innenlager
 | ------------------- | -------------------------------------------------------------------------------------- |
 | Entscheidungsstatus | **Gewählt** (Komponenten festgelegt; Kaufstatus hier nicht geführt)                    |
 | Konzept             | Hope-Kurbel + Hope-Innenlager + Hope-Kettenblatt; Shimano XT M8200/M8100 für Schaltung |
-| Ziel-Kettenlinie    | **52 mm** (über Hope R22 Direct Mount **Boost**)                                       |
+| Ziel-Kettenlinie    | **49 mm** (über Hope R22 Direct Mount **Standard**)                                    |
 | Kurbelarmlänge      | **165 mm**                                                                             |
 | Kettenblatt Zähne   | **30**                                                                                 |
 | Rahmen-BB           | BSA **68 mm**                                                                          |
@@ -28,16 +28,16 @@ System: **1x12-fach**, mechanisch, MTB. Schaltung: Shimano XT. Kurbel/Innenlager
 
 ## Stückliste (aktuell)
 
-| Rolle              | Modell / Variante                                          | Marke            | Quelle        |
-| ------------------ | ---------------------------------------------------------- | ---------------- | ------------- |
-| Kurbel             | Hope Evo 68/73 mm, **165 mm**, **silber**                  | Hope             | Einzelartikel |
-| Kettenblatt        | Hope R22 Direct Mount **Boost**, **30 Zähne**, **schwarz** | Hope             | Einzelartikel |
-| Innenlager         | Hope Edelstahl BSA, **30 mm** Achse, **silber** (BBSS30S)  | Hope             | Einzelartikel |
-| Werkzeug BB        | Hope Innenlagerschlüssel BSA 30 mm (HTT188)                | Hope             | Einzelartikel |
-| Schalthebel rechts | SL-M8200-IR                                                | Shimano XT M8200 | Upgrade-Kit   |
-| Schaltwerk         | RD-M8200-SGS                                               | Shimano XT M8200 | Upgrade-Kit   |
-| Kassette           | CS-M8200 / CS-M8200-12, **10-51**                          | Shimano XT M8200 | Upgrade-Kit   |
-| Kette              | CN-M8100, 126 Glieder + SM-CN910-12                        | Shimano XT M8100 | Upgrade-Kit   |
+| Rolle              | Modell / Variante                                             | Marke            | Quelle        |
+| ------------------ | ------------------------------------------------------------- | ---------------- | ------------- |
+| Kurbel             | Hope Evo 68/73 mm, **165 mm**, **silber**                     | Hope             | Einzelartikel |
+| Kettenblatt        | Hope R22 Direct Mount **Standard**, **30 Zähne**, **schwarz** | Hope             | Einzelartikel |
+| Innenlager         | Hope Edelstahl BSA, **30 mm** Achse, **silber** (BBSS30S)     | Hope             | Einzelartikel |
+| Werkzeug BB        | Hope Innenlagerschlüssel BSA 30 mm (HTT188)                   | Hope             | Einzelartikel |
+| Schalthebel rechts | SL-M8200-IR                                                   | Shimano XT M8200 | Upgrade-Kit   |
+| Schaltwerk         | RD-M8200-SGS                                                  | Shimano XT M8200 | Upgrade-Kit   |
+| Kassette           | CS-M8200 / CS-M8200-12, **10-51**                             | Shimano XT M8200 | Upgrade-Kit   |
+| Kette              | CN-M8100, 126 Glieder + SM-CN910-12                           | Shimano XT M8100 | Upgrade-Kit   |
 
 Upgrade-Kit laut Quelle: Shimano XT M8200 1x12-fach Upgrade-Kit I-Spec EV.
 
@@ -48,7 +48,9 @@ Upgrade-Kit laut Quelle: Shimano XT M8200 1x12-fach Upgrade-Kit I-Spec EV.
 | Teil                                               | URL                                                                                                         |
 | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
 | Hope Evo 68/73 mm Kurbelsatz                       | https://www.bike-discount.de/de/hope-evo-68/73mm-kurbelsatz-5?number=20084336-20195873                      |
-| Hope R22 Kettenblatt DM Boost black                | https://www.bike-discount.de/de/hope-r22-kettenblatt-direct-mount-boost-black?number=20130633-20214460      |
+| Hope R22 Kettenblatt DM Standard black 30Z (Kauf)  | https://www.bike24.de/p1917132.html?sku=3107379                                                             |
+| Hope R22 DM Standard (49 mm, Spezifikation)        | https://www.bike-components.de/de/Hope/R22-Spiderless-Direct-Mount-Kettenblatt-p92752/                      |
+| Hope EVO Chainline/Clearance Chart                 | `hersteller_dokumente/Kurbelsatz Hope Evo /hope_Chainline_and_Clearance_Chart_EVO.pdf`                      |
 | Hope Edelstahl Innenlager 68/73/83 für 30 mm Achse | https://www.bike-discount.de/de/hope-edelstahl-innenlager-68/73/83-fuer-30mm-achse?number=20069294-20188560 |
 | Hope Innenlagerschlüssel BSA 30 mm                 | https://www.bike-discount.de/de/hope-innenlagerschluessel-bsa-30mm                                          |
 | Shimano XT M8200 Upgrade-Kit I-Spec EV             | https://www.bike-discount.de/de/shimano-xt-m8200-1x12-fach-upgrade-kit-i-spec-ev                            |
@@ -70,18 +72,35 @@ Diese Teile sind **nicht** mehr die aktuelle Entscheidung. Details der alten Spe
 ### Warum Wechsel auf Hope (Owner-Entscheidung)
 
 1. **Optik:** LilacHaze-Rahmen + viel Schwarz (Rack-Webbing, Backrest-Sitz, Carbon-Felgen, Reifen). Mattschwarze XT-Kurbel hätte noch mehr Schwarz gestapelt. Hope Evo in **silber** als bewusster Akzent (siehe `design.md`).
-2. **Technik bleibt stimmig:** 165 mm Armlänge wie zuvor; Ziel-Kettenlinie weiter **52 mm** über Boost-Blatt; BSA 68 mm am Rahmen; XT 1x12 hinten unverändert.
+2. **Technik (damals):** 165 mm Armlänge wie zuvor; Kettenlinie zunächst weiter **52 mm** über Boost-Blatt (an die XT-Kurbel angelehnt); BSA 68 mm am Rahmen; XT 1x12 hinten unverändert.
 3. **Trade-off akzeptiert:** anderes BB (30 mm statt Hollowtech II), anderes Kettenblatt (Hope DM statt SM-CRM85), Montagewerkzeug HTT188 nötig.
 
-### Kettenlinie — wichtige Shop-Angaben (nicht vermischen)
+### Kettenlinie — Korrektur 2026-09-05 (Owner)
 
-| Quelle                                          | Angabe                                 |
-| ----------------------------------------------- | -------------------------------------- |
-| Hope Evo 68/73 mm (Bike-Discount)               | Kettenlinie **49 mm** (Kurbelseite)    |
-| Hope R22 Direct Mount **Boost** (Bike-Discount) | **52 mm** Kettenlinie für Hope-Kurbeln |
+Boost **52 mm** war ein Mitnahme-Effekt der XT-Boost-Kurbel (für Hinterbau **148 mm**). Der Mini-Max hat **12 × 142 mm**. Hopes EVO-Chart mappt die vorhandene Kurbel `HCEN73` so:
 
-**Aktuelle Wahl:** Boost-Blatt → wirksame Kettenlinie laut Kettenblatt-Quelle **52 mm**.  
-**Fallback (nicht gewählt):** Hope R22 Direct Mount **Standard** würde laut Hope-Logik die schmalere Linie liefern (Shop-Kurbelseite nennt 49 mm) — nur relevant bei Rubbing/Schräglauf nach Montage.
+| Blatt-Offset | Kettenlinie | Hinterbau laut Hope-Chart |
+| ------------ | ----------- | ------------------------- |
+| **STANDARD** | **49 mm**   | **135 / 142**             |
+| BOOST        | 52 mm       | 148                       |
+
+Owner wechselt auf Hope R22 Direct Mount **Standard**, 30 Zähne, schwarz (Bike24 SKU **3107379**). Begründung: Kassette auf 142 sitzt weiter innen; 49 mm zielt in die Kassettenmitte. Nutzung (Hügel, Kindlast, leichte Gänge) braucht vor allem ruhigen Lauf in **39–51**. 3 mm Fehlstand sind bei 462 mm Kettenstrebe weniger spitz als am kurzen MTB — 52 mm funktionierte oft, war aber nicht die passende Linie.
+
+Boost-Blatt (montiert gewesen) bleibt als Ersatzteil; nicht mehr die aktuelle Wahl.
+
+### Kettenlinie — Quellen (nicht vermischen)
+
+| Quelle                                                                 | Angabe                                 |
+| ---------------------------------------------------------------------- | -------------------------------------- |
+| Hope Evo 68/73 mm (Bike-Discount, Kurbelseite)                         | **49 mm** (ohne Blatt-Offset)          |
+| Hope EVO Chainline Chart, `HCEN73` + STANDARD                          | **49 mm**, Hinterbau 135/142           |
+| Hope EVO Chainline Chart, `HCEN73` + BOOST                             | **52 mm**, Hinterbau 148               |
+| Hope R22 DM Standard (Hope: STD Offset; bike-components; SJS Cycles)   | **49 mm** Kettenlinie                  |
+| Hope R22 DM Boost (Bike-Discount; nicht mehr gewählt)                  | **52 mm** Kettenlinie für Hope-Kurbeln |
+| Bike24-Schwesterseiten R22 DM ohne „Boost“ im Titel (z. B. rot/orange) | „Optimierte **49 mm** Kettenlinie“     |
+
+**Aktuelle Wahl:** Standard-Blatt → wirksame Kettenlinie **49 mm**.  
+**Nicht mehr gewählt:** Boost-Blatt 52 mm.
 
 ---
 
@@ -98,7 +117,7 @@ Diese Teile sind **nicht** mehr die aktuelle Entscheidung. Details der alten Spe
 - Kettenblattbefestigung: **Hope Direct Mount**
 - Innenlager-Kompatibilität (Quelle): BSA 68/73
 - Q-Faktor (Quelle): **167 mm**
-- Kettenlinie auf Kurbelseite (Quelle): **49 mm** — siehe Hinweis oben; mit gewähltem Boost-Blatt laut Blatt-Quelle **52 mm**
+- Kettenlinie auf Kurbelseite (Quelle): **49 mm** — mit gewähltem Standard-Blatt ebenfalls **49 mm** (Hope-Chart `HCEN73` + STANDARD)
 - Gewählte Kurbelarmlänge: **165 mm**
 - Weitere Längen laut Quelle (nicht gewählt): 155 / 170 / 175 mm
 - Material Kurbelarme: 7150 Aluminium
@@ -114,19 +133,21 @@ Diese Teile sind **nicht** mehr die aktuelle Entscheidung. Details der alten Spe
 ## Kettenblatt (aktuell)
 
 - Hersteller: Hope Technology Ltd.
-- Bezeichnung (Quelle): Hope R22 Kettenblatt Direct Mount Boost black
-- Hersteller-Artikelnr. (30 Zähne laut Quelle): **RR30BSP22N**
-- EAN (Quelle): 5056454963397
-- Bike-Discount Artikel-Nr.: 20130633
-- Ausführung: Direct Mount **Boost**, **52 mm** Kettenlinie für Hope-Kurbeln
+- Bezeichnung: Hope R22 Direct Mount **Standard** (Non-Boost), Narrow-Wide
+- Kauf (Owner): Bike24, 30 Zähne — https://www.bike24.de/p1917132.html?sku=3107379 (Bike24-SKU **3107379**). Live-Seite hier nicht abrufbar (Bot-Schutz); Variante 30Z Owner-bestätigt. Bike24 Boost-schwarz ist ein **anderes** Produkt (`p1917138`).
+- Hersteller-Artikelnr. (30 Zähne, schwarz): **RR30SP22N** — SJS Cycles (Standard Black 30T); bike-components Basis-Nr. **RR30SP22** (Farb-Suffix **N** = black, analog bisherigem Boost `RR30BSP22N`)
+- EAN / UPC: **5056454963090** (bikeparts.com zu RR30SP22N)
+- Ausführung: Direct Mount **Standard**, **49 mm** Kettenlinie (Hope: Direct Mount STD Offset 49 mm; bike-components: 49 mm; SJS: Standard Offset 49 mm)
 - Gewählte Größe: **30 Zähne**
-- Weitere Abstufungen laut Quelle (nicht gewählt): 28 / 32 / 34 / 36 Zähne
+- Weitere Abstufungen laut Quellen (nicht gewählt): 28 / 32 / 34 / 36 Zähne
 - Material: CNC-gefrästes Aluminium 7075-T6
-- Farbe: **schwarz**
+- Farbe: **schwarz** (RR30SP22N; Gestaltung `design.md`)
+- Gewicht (30T, Herstellerangabe über Shops): **61 g**
 - Kompatibilität Kurbel (Quelle): Hope Direct Mount Kurbel
 - Kompatibilität Kette (Quelle): 9/10/11-fach und 12-fach (SRAM Eagle, SRAM T-Type Flattop sowie **Shimano HG+**)
 - Features (Quelle): asymmetrisches Zahnprofil; steiferer Stern; weniger Schmutzanhaftung
-- Lieferumfang: 1 × Hope R22 Kettenblatt Direct Mount Boost
+- Lieferumfang: 1 × Hope R22 Kettenblatt Direct Mount Standard
+- **Nicht mehr aktuell:** Hope R22 Direct Mount **Boost** 30T schwarz (`RR30BSP22N`, 52 mm) — war montiert; siehe Entscheidungsgeschichte oben
 
 ---
 
@@ -289,20 +310,20 @@ Hinweis: Rahmen-Spec 145 mm vs. Hope 167 mm — Differenz bewusst akzeptiert (Ow
 
 ## Offene / Beobachtungspunkte
 
-| ID  | Thema                                                                 | Status                                             |
-| --- | --------------------------------------------------------------------- | -------------------------------------------------- |
-| A1  | Kettenlinie 52 mm (Boost) vs. ggf. Standard 49 mm nach Montage prüfen | Offen — bei Rubbing/Schräglauf Blatt-Offset prüfen |
-| A2  | Hope-Spacer-Anordnung am 68-mm-Gehäuse laut Hope-Anleitung            | Beim Einbau                                        |
-| A3  | Freilauf Micro Spline für CS-M8200                                    | Siehe `freilaufkörper_tausch.md`                   |
+| ID  | Thema                                                                                                              | Status                                |
+| --- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------- |
+| A1  | Nach Blatt-Tausch: Freigang Kettenstrebe (Standard sitzt 3 mm weiter innen) und Kettenlauf in **39–51** unter Last | Offen                                 |
+| A2  | Hope-Spacer-Anordnung am 68-mm-Gehäuse laut Hope-Anleitung                                                         | Beim Einbau (Kurbel bereits montiert) |
+| A3  | Freilauf Micro Spline für CS-M8200                                                                                 | Siehe `freilaufkörper_tausch.md`      |
 
 ---
 
 ## Entscheidungs-Hinweise für LLMs
 
-1. **Aktueller Antrieb** = Hope Evo silber 165 mm + Hope R22 Boost 30T schwarz + Hope BBSS30S + HTT188 + Shimano XT M8200 Kit (Schaltung).
-2. **Nicht** mehr planen: FC-M8100-1, SM-CRM85, BB-MT800 — nur noch als historische Notiz oben.
-3. Kettenlinie: Boost-Blatt-Quelle sagt **52 mm**; Kurbelseite allein sagt **49 mm**. Wirksame Linie der gewählten Kombi = **52 mm** laut Blatt.
+1. **Aktueller Antrieb** = Hope Evo silber 165 mm + Hope R22 **Standard** 30T schwarz (`RR30SP22N`) + Hope BBSS30S + HTT188 + Shimano XT M8200 Kit (Schaltung).
+2. **Nicht** mehr planen: FC-M8100-1, SM-CRM85, BB-MT800 — nur noch als historische Notiz oben. Hope R22 **Boost** 30T (`RR30BSP22N`) ist nicht mehr die aktuelle Blatt-Wahl.
+3. Kettenlinie der gewählten Kombi = **49 mm** (Standard-Blatt + Hope-Chart `HCEN73` / 135-142). Boost 52 mm war die vorherige, zum 142-mm-Hinterbau nicht passende Wahl.
 4. Kette CN-M8100 bleibt; Hope R22 nennt HG+-Kompatibilität.
 5. Gestaltung Akzente: siehe `design.md` (Kurbel silber, Blatt schwarz).
-6. Querverweise: `tretlager.md` (kurz, verweist hierher), `freilaufkörper_tausch.md`, `fahrer.md`, `rahmen_omnium_mini_max_v3_stahl_m.md`.
-7. **Nicht erfinden:** keine Hope-PDF-Chainline-Charts hier als Fakt ausgeben, sofern nicht als Quelle zitiert; Shop-Seiten sind die Quellen dieses Dokuments.
+6. Querverweise: `tretlager.md` (kurz, verweist hierher), `freilaufkörper_tausch.md`, `fahrer.md`, `rahmen_omnium_mini_max_v3_stahl_m.md`. Gesprächsnotiz: `unterhaltungen/2026-09-05_kettenlinie_49mm_standard.md`.
+7. Kettenlinie-Fakten aus zitierten Quellen (Hope-PDF im Repo, bike-components, SJS, Owner-Kauf-URL). Bike24-Produktseite selbst hier nicht gelesen (Bot-Schutz).

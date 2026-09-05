@@ -2,7 +2,7 @@
 
 Kurzakte. **Vollständige aktuelle Entscheidung** (Hope-Innenlager + Kurbel + Kettenblatt): `antrieb.md`.
 Rahmen: `rahmen_omnium_mini_max_v3_stahl_m.md`.
-Stand: 2026-08-26.
+Stand: 2026-09-05.
 
 ---
 
@@ -18,12 +18,12 @@ Stand: 2026-08-26.
 
 ## Aktuelle Entscheidung (Kurz)
 
-| Feld                                             | Wert                                                          |
-| ------------------------------------------------ | ------------------------------------------------------------- |
-| Innenlager                                       | Hope Edelstahl BSA, **30 mm** Achse, **silber** (**BBSS30S**) |
-| Kurbelwelle                                      | Hope Evo, **30 mm**                                           |
-| Montagewerkzeug                                  | Hope **HTT188** (BSA 30 mm)                                   |
-| Wirksame Kettenlinie (mit gewähltem Boost-Blatt) | **52 mm** — Details/Quellen in `antrieb.md`                   |
+| Feld                                                | Wert                                                          |
+| --------------------------------------------------- | ------------------------------------------------------------- |
+| Innenlager                                          | Hope Edelstahl BSA, **30 mm** Achse, **silber** (**BBSS30S**) |
+| Kurbelwelle                                         | Hope Evo, **30 mm**                                           |
+| Montagewerkzeug                                     | Hope **HTT188** (BSA 30 mm)                                   |
+| Wirksame Kettenlinie (mit gewähltem Standard-Blatt) | **49 mm** — Details/Quellen in `antrieb.md`                   |
 
 Nicht verwenden: Shimano Hollowtech-II-BB (z. B. BB-MT800) — passt nicht zur Hope-30-mm-Welle.
 
