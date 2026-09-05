@@ -90,12 +90,12 @@ NOTE: Gabelschaft hat einen Überhang von leicht mehr als 96 mm für Vorbau und 
 
 Included with the Omnium Mini-Max V3 frame kit — **not** to be ordered separately:
 
-| Component                         | Spec / note                                                                 | Color   |
-| --------------------------------- | --------------------------------------------------------------------------- | ------- |
-| Headset (fork, threaded integrated) | 1 1/8″ Threaded Integrated with locking cap                               | Black   |
-| Headset (steerer / Ahead)         | 1 1/8″ Ahead                                                                | Black   |
-| Thru axle front                   | 15×100, 125 mm long, 17 mm thread, 1.5 mm pitch                             | Black   |
-| Thru axle rear                    | 12×142, 172 mm long, 19 mm thread, 1.75 mm pitch                            | Black   |
+| Component                           | Spec / note                                      | Color |
+| ----------------------------------- | ------------------------------------------------ | ----- |
+| Headset (fork, threaded integrated) | 1 1/8″ Threaded Integrated with locking cap      | Black |
+| Headset (steerer / Ahead)           | 1 1/8″ Ahead                                     | Black |
+| Thru axle front                     | 15×100, 125 mm long, 17 mm thread, 1.5 mm pitch  | Black |
+| Thru axle rear                      | 12×142, 172 mm long, 19 mm thread, 1.75 mm pitch | Black |
 
 #### Wheelset
 
@@ -103,56 +103,56 @@ I bought the Omnium Carbon Wheelset and plan to use it. The Omnium Carbon Wheels
 
 ##### Specifications Front Wheel
 
-| Parameter              | Value                          |
-| ---------------------- | ------------------------------ |
-| Hub                    | DT Swiss 350                   |
-| Thru Axle              | 15mm                           |
-| O.L.D.                 | 100mm                          |
-| Disc Mount             | Disc 6 Bolt                    |
-| Hub Material           | Aluminium                      |
-| Spoke holes            | 32                             |
-| Spokes                 | DT Swiss Competition           |
-| Size                   | 20 inch / ISO 406              |
-| Color                  | UD Matte Black                 |
-| External Width         | 32mm                           |
-| Internal Width         | 25mm                           |
-| Rim Height             | 28mm                           |
-| Rim Material           | Toray T700 + T800 Carbon Fiber |
-| Valve Hole Diameter    | 6.5mm (Presta)                 |
-| Rim Type               | Clincher                       |
-| Tubeless Compatible    | Yes                            |
-| Tire Size              | 32mm~62mm                      |
-| Load Limit (One Wheel) | 120kg                          |
-| Weight                 | 406g                           |
+| Parameter              | Value                                            |
+| ---------------------- | ------------------------------------------------ |
+| Hub                    | DT Swiss 350                                     |
+| Thru Axle              | 15mm                                             |
+| O.L.D.                 | 100mm                                            |
+| Disc Mount             | Disc 6 Bolt                                      |
+| Hub Material           | Aluminium                                        |
+| Spoke holes            | 32                                               |
+| Spokes                 | DT Swiss Competition                             |
+| Size                   | 20 inch / ISO 406                                |
+| Color                  | UD Matte Black                                   |
+| External Width         | 32mm                                             |
+| Internal Width         | 25mm                                             |
+| Rim Height             | 28mm (Felgenhöhe; VR-Ventil unkritischer als HR) |
+| Rim Material           | Toray T700 + T800 Carbon Fiber                   |
+| Valve Hole Diameter    | 6.5mm (Presta)                                   |
+| Rim Type               | Clincher                                         |
+| Tubeless Compatible    | Yes                                              |
+| Tire Size              | 32mm~62mm                                        |
+| Load Limit (One Wheel) | 120kg                                            |
+| Weight                 | 406g                                             |
 
 ##### Specifications Rear Wheel
 
 Here it is in Markdown:
 
-| Parameter              | Value                    |
-| ---------------------- | ------------------------ |
-| Hub                    | DT Swiss 350             |
-| Thru Axle              | 12mm                     |
-| O.L.D.                 | 142mm                    |
-| Disc                   | 6 Bolt                   |
-| Cassette interface     | HG                       |
-| Freehub Body           | Shimano Light (MTB)\*    |
-| Ratchet System         | 36sl                     |
-| Hub Material           | Aluminium                |
-| Spoke holes            | 32                       |
-| Spokes                 | DT Swiss Competition     |
-| Size                   | 29 inch / ISO 622        |
-| Color                  | UD Matte Black           |
-| External Width         | 35mm                     |
-| Internal Width         | 29mm                     |
-| Rim Height             | 32mm                     |
-| Rim Material           | Toray T700 Carbon Fibers |
-| Valve Hole Diameter    | 6.5mm (Presta)           |
-| Rim Type               | Clincher (Hookless)      |
-| Tubeless Compatible    | Yes                      |
-| Tire Size              | 2.0″ ~ 2.65″             |
-| Load Limit (One Wheel) | 110kg                    |
-| Weight                 | 985g                     |
+| Parameter              | Value                                                                          |
+| ---------------------- | ------------------------------------------------------------------------------ |
+| Hub                    | DT Swiss 350                                                                   |
+| Thru Axle              | 12mm                                                                           |
+| O.L.D.                 | 142mm                                                                          |
+| Disc                   | 6 Bolt                                                                         |
+| Cassette interface     | HG                                                                             |
+| Freehub Body           | Shimano Light (MTB)\*                                                          |
+| Ratchet System         | 36sl                                                                           |
+| Hub Material           | Aluminium                                                                      |
+| Spoke holes            | 32                                                                             |
+| Spokes                 | DT Swiss Competition                                                           |
+| Size                   | 29 inch / ISO 622                                                              |
+| Color                  | UD Matte Black                                                                 |
+| External Width         | 35mm                                                                           |
+| Internal Width         | 29mm                                                                           |
+| Rim Height             | 32mm (Felgenhöhe — HR-Schlauch Presta ≥45 mm, besser 50 mm; siehe `reifen.md`) |
+| Rim Material           | Toray T700 Carbon Fibers                                                       |
+| Valve Hole Diameter    | 6.5mm (Presta)                                                                 |
+| Rim Type               | Clincher (Hookless)                                                            |
+| Tubeless Compatible    | Yes                                                                            |
+| Tire Size              | 2.0″ ~ 2.65″                                                                   |
+| Load Limit (One Wheel) | 110kg                                                                          |
+| Weight                 | 985g                                                                           |
 
 ---
 

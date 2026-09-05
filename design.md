@@ -21,7 +21,7 @@ Nur festgehaltene Owner-Entscheidungen und beobachtete Ist-Farben. Keine erfunde
 | Steckachsen VR + HR    | **schwarz**                         | Dabei (Rahmenkit) |
 | Backrest-Sitz          | **schwarz**                         | Gekauft           |
 | Omnium Carbon Wheelset | UD **Matte Black**                  | Gekauft           |
-| Reifen (geplant)       | **schwarz**, ohne Reflektorstreifen | Siehe `reifen.md` |
+| Reifen                 | **schwarz**, ohne Reflektorstreifen (Kenda Booster Pro) | Siehe `reifen.md` |
 
 Folge: viel Schwarz an Cargo-Plattform und Laufrädern; Lilac durchgängig an Rahmen+Rack. Allschwarz bei Restkomponenten würde die dunkle Masse verstärken.
 
